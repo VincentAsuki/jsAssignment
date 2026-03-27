@@ -1,2 +1,2 @@
 # jsAssignment
-Generating initials, Finding character positions, and Creating dynamic usernames.
+Built a set of beginner JavaScript programs that take user input and perform basic string manipulation, including generating initials, finding character positions, and creating usernames.
